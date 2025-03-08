@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @saigonbitmaster
-- 👀 I’m interested in software 
-- 💞️ I’m looking to collaborate on nodejs, research projects
 - 📫 How to reach me https://t.me/ThangTranNam
